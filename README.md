@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mavrickdeveloper
-- 👀 I’m interested in <b> Web, Blockchain Development </b>
+- 👀 I’m interested in <b> Web, Blockchain Development , Modern software engineering</b>
 - 🌱 I’m currently learning <b> Rust </b>
 - 💞️ I’m looking to collaborate on Blockchain development
 - 📫 How to reach me sam@mavrick.dev
