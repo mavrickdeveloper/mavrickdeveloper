@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mavrickdeveloper
 - 👀 I’m interested in Web, Blockchain Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Blockchain development
 - 📫 How to reach me ...
 
 <!---
