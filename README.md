@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web, Blockchain Development
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Blockchain development
-- 📫 How to reach me ...
+- 📫 How to reach me sam@mavrick.dev
 
 <!---
 mavrickdeveloper/mavrickdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
